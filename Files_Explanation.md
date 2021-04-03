@@ -15,6 +15,7 @@ https://youtu.be/OtD8wVaFm6E  (Watch all the 4 parts if possible. Either way 1st
 6. NN_Implemented.csv: This is the file where predicted results from ANN are added to the end i.e more 2 columns are added
 
 Now the training for the XGBOOST takes almost 15-20 minutes for 1 prediction and we have 2 predictions. Thats why XGBOOST trees are to be saved.
+
 7. RH_XREG.json: Relative Humidity Prediction via XGBOOST model saved as json format (Similar to saving neural network weights)
 8. AH_XREG.json: Average Humidity Prediction via XGBOOST model saved as json format (Similar to saving neural network weights)
 
